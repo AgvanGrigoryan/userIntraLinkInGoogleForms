@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Show intra link by username in Google forms",
+    "version": "1.0",
+    "description": "Show intra link by username in Google forms",
+    "permissions": ["activeTab"],
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["content.js"]
+        }
+    ],
+	"web_accessible_resources": [
+		{
+			"resources": ["ft.svg"],
+			"matches": ["<all_urls>"]
+		}
+	]
+}
