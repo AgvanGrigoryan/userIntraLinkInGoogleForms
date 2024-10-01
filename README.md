@@ -8,7 +8,7 @@ Download source files:
 
 
 ## Step 2
-Extract files if you download zip file
+Extract files if you downloaded zip file
 
 <img width="772" alt="Screen Shot 2024-09-30 at 9 22 16 PM" src="https://github.com/user-attachments/assets/13189163-0ad1-4bb3-af1b-b97def33857e">
 
